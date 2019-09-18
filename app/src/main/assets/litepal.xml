@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbanme value="xixiweatherdb" />
+
+    <version value='1' />
+    <list>
+        <mapping class="com.xixiweather.android.weatherdb.Province" />
+        <mapping class="com.xixiweather.android.weatherdb.City" />
+        <mapping class="com.xixiweather.android.weatherdb.County"/>
+
+    </list>
+
+</litepal>
