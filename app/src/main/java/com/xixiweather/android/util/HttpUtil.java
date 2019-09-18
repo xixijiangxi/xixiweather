@@ -3,7 +3,7 @@ package com.xixiweather.android.util;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 
-public class HttpUtil {
+public class HttpUtil {//与服务器进行交互，发起一条HTTP请求
 
     public static void sendOkHttpRequest(String address, okhttp3.Callback callback) {
         OkHttpClient client = new OkHttpClient();

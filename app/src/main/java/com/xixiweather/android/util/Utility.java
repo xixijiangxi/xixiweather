@@ -2,9 +2,9 @@ package com.xixiweather.android.util;
 
 import android.text.TextUtils;
 
-import com.coolweather.android.db.City;
-import com.coolweather.android.db.County;
-import com.coolweather.android.db.Province;
+import com.xixiweather.android.weatherdb.City;
+import com.xixiweather.android.weatherdb.County;
+import com.xixiweather.android.weatherdb.Province;
 import com.coolweather.android.gson.Weather;
 import com.google.gson.Gson;
 
